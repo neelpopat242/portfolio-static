@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "",
+  baseUrl: "https://neelpopat242-portfolio.netlify.app/",
   name: "Neel Popat",
   jobDescription: "Software Engineering ",
   about: `
@@ -54,8 +54,8 @@ export const info = {
       title: "Astro Portfolio",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      githubUrl: "https://github.com/neelpopat242",
+      liveUrl: "https://neelpopat242-portfolio.netlify.app/",
     },
   ],
 };
