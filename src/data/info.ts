@@ -53,7 +53,7 @@ export const info = {
     {
       title: "Astro Portfolio",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
+      thumbnail: "/image_thumbnail.png",
       githubUrl: "https://github.com/neelpopat242",
       liveUrl: "https://neelpopat242-portfolio.netlify.app/",
     },
