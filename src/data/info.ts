@@ -4,19 +4,20 @@ export const info = {
   jobDescription: "Software Engineering ",
   about: `
   Results-driven computer science student, passionate about developing user-friendly software applications.
-  Good at problem-solving and has the ability to perform well in a team. Seeking to develop and grow as a software developer
+  Good at problem-solving and has the ability to perform well in a team. Seeking to develop and grow as a software developer. 
+  Currently working in the weddings pod as part of the frontend  team at Betterhalf.ai.
   `,
 
   experience: [
     {
       name: "SDE Intern - Betterhalf.ai",
       location: "Bengaluru , Karnataka, India",
-      startDate: "Jan ,2023",
+      startDate: "Jan, 2023",
       endDate: "Present",
       description: [
-        "- Worked on implementing the functionalities required for user search and recommendations in the admin panel of Betterhalf.",
-        "- Contributed to the development of a wedding webapp for venue listing.",
-        "- Created an internal tool for comparing JSON objects and text."
+        "- Contributed towards developing  wedding category listing pages which includes venues, decorators, photographers.",
+        "- Built an user-friendly admin panel from scratch that enables efficient data management  for the wedding category listing pages.",
+        "- Worked on implementing the functionalities required for user search and recommendations in the admin panel of Betterhalf."
       ],
     },
 
@@ -25,7 +26,7 @@ export const info = {
   education: [
     {
       name: "Ahmedabad University",
-      location: "Ahmedabad , Gujarat, India",
+      location: "Ahmedabad, Gujarat, India",
       startDate: "2019",
       endDate: "2023",
       description: [
