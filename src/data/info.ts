@@ -11,7 +11,7 @@ export const info = {
 
   experience: [
     {
-      name: "SDE Intern - Betterhalf.ai",
+      name: "SDE (Frontend) - Betterhalf.ai",
       location: "Bengaluru , Karnataka, India",
       startDate: "Jan, 2023",
       endDate: "Present",
